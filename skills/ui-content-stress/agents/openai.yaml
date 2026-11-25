@@ -1,0 +1,3 @@
+interface:
+  display_name: "UI Content Stress"
+  short_description: "Find layout breaks with realistic long content"
